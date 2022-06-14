@@ -24,4 +24,7 @@ but if we go inside their mind, they could be struggling with their own demons.
 Use the WASD keys to move.
 Look around by moving the mouse.
 Jump by pressing the spacebar (You can double jump)
-Press the `  key to toggle the mouse.
+Press the `  key to toggle the mouse. 
+
+
+PC download link: https://github.com/WoodrowCrawford/GraphicsDemoDungeon/releases/download/V.1.0/GraphicDemoDungeonBuild.zip
